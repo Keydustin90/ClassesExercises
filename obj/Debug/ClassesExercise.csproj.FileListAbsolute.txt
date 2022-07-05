@@ -1,0 +1,12 @@
+/Users/dustinkey/Projects/ClassesExercise/ClassesExercise/bin/Debug/ClassesExercise.exe
+/Users/dustinkey/Projects/ClassesExercise/ClassesExercise/bin/Debug/ClassesExercise.pdb
+/Users/dustinkey/Projects/ClassesExercise/ClassesExercise/obj/Debug/ClassesExercise.csproj.AssemblyReference.cache
+/Users/dustinkey/Projects/ClassesExercise/ClassesExercise/obj/Debug/ClassesExercise.csproj.CoreCompileInputs.cache
+/Users/dustinkey/Projects/ClassesExercise/ClassesExercise/obj/Debug/ClassesExercise.exe
+/Users/dustinkey/Projects/ClassesExercise/ClassesExercise/obj/Debug/ClassesExercise.pdb
+/Users/dustinkey/repos/ClassesExercise/bin/Debug/ClassesExercise.exe
+/Users/dustinkey/repos/ClassesExercise/bin/Debug/ClassesExercise.pdb
+/Users/dustinkey/repos/ClassesExercise/obj/Debug/ClassesExercise.csproj.AssemblyReference.cache
+/Users/dustinkey/repos/ClassesExercise/obj/Debug/ClassesExercise.csproj.CoreCompileInputs.cache
+/Users/dustinkey/repos/ClassesExercise/obj/Debug/ClassesExercise.exe
+/Users/dustinkey/repos/ClassesExercise/obj/Debug/ClassesExercise.pdb
